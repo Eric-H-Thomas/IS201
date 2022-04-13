@@ -1,0 +1,21 @@
+p {
+    color: #222222;
+    text-align: justify;
+}
+
+li {
+    font-size: 15;  
+};
+
+h1 {
+    font-weight: bold;
+};
+
+h4 {
+    font-family: sans-serif;
+};
+
+img {
+    float: left;
+    margin: 5px;
+}

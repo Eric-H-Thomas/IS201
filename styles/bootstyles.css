@@ -1,0 +1,94 @@
+.common {
+    background-color: #CCCCCC;
+    border: solid 2px white;
+    position: absolute;
+    font-family: BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
+.centered {
+    text-align: center;
+}
+
+.caption1 {
+    top: 485px;
+    bottom: 200px;
+    right: 800px;
+    left: 100px;
+    color: darkblue;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.caption2 {
+    top: 485px;
+    bottom: 200px;
+    right: 100px;
+    left: 800px;
+    color: darkblue;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.caption3 {
+    top: 870px;
+    height: 15px;
+    right: 800px;
+    left: 100px;
+    color: darkblue;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.caption4 {
+    top: 870px;
+    height: 15px;
+    right: 100px;
+    left: 800px;
+    color: darkblue;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    font-weight: bold;
+    color: white;
+    background-image: url('../images/background2.webp');
+}
+
+.mainbody {
+    top: 111px;
+    bottom: 61px;
+    left: 5px;
+    right: 5px;
+    background-color: white;
+}
+
+.footer {
+    bottom: 0px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    position: fixed;
+    font-weight: bold;
+    color: white;
+    background-image: url('../images/background2.webp');
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #DDDDDD;
+}
